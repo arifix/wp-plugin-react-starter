@@ -22,7 +22,7 @@ const App = () => {
         <span class="flex gap-4">
           <span class="flex-1">
             <span>Code location: </span>
-            <span class="text-yellow-500">src/componnets/App.jsx</span>
+            <span class="text-yellow-500">src/components/App.jsx</span>
           </span>
         </span>
       </code>
