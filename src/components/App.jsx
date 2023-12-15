@@ -18,11 +18,11 @@ const App = () => {
           <span className="relative">ReactJS</span>
         </span>
       </h1>
-      <code class="text-sm sm:text-base inline-flex text-left items-center space-x-4 bg-gray-800 text-white rounded-lg p-4 pl-6 mt-10">
-        <span class="flex gap-4">
-          <span class="flex-1">
+      <code className="text-sm sm:text-base inline-flex text-left items-center space-x-4 bg-gray-800 text-white rounded-lg p-4 pl-6 mt-10">
+        <span className="flex gap-4">
+          <span className="flex-1">
             <span>Code location: </span>
-            <span class="text-yellow-500">src/components/App.jsx</span>
+            <span className="text-yellow-500">src/components/App.jsx</span>
           </span>
         </span>
       </code>
